@@ -1,0 +1,34 @@
+____________________________________________________________________
+                                                                    
+----               REPARTITION CLIENTS PAR REGIONS              ----
+____________________________________________________________________
+
+Région                         Nombre de clients    Pourcentage (%)     
+--------------------------------------------------------------------
+Auvergne-Rhône-Alpes           46                   12.89               
+Bourgogne-Franche-Comté        43                   12.04               
+Bretagne                       13                   3.64                
+Centre-Val de Loire            19                   5.32                
+Grand Est                      48                   13.45               
+Hauts-de-France                38                   10.64               
+Normandie                      18                   5.04                
+Nouvelle-Aquitaine             41                   11.48               
+Occitanie                      60                   16.81               
+Pays de la Loire               12                   3.36                
+Provence-Alpes-Côte d'Azur     7                    1.96                
+Île-de-France                  12                   3.36                
+--------------------------------------------------------------------
+Total                          357                  100.0               
+--------------------------------------------------------------------
+
+____________________________________________________________________
+                                                                    
+----                   ANALYSE STATISTIQUES                     ----
+____________________________________________________________________
+
+Total des clients : 357
+Nombre moyen de clients par région : 29.75
+Écart-type du nombre de clients par région : 18.0
+Région avec le plus grand nombre de clients : Occitanie (60 clients)
+Région avec le plus petit nombre de clients : Provence-Alpes-Côte d'Azur (7 clients)
+Écart entre la région avec le plus grand nombre de clients et celle avec le moins de clients : 53 clients
