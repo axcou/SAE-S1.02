@@ -1,4 +1,4 @@
-# SAE-S1.02 Lecture et ecriture de fichier de données
+# SAE-S1.02 Lecture et écriture de fichier de données
 
 ## Contexte général
 
