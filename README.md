@@ -38,7 +38,8 @@ Grâce à cette SAE, nous avons pu renforcer nos compétences en manipulation de
 
 Ce projet a été réalisé dans le cadre de la SAE S1.02 - Lecture et écriture de fichiers texte, en première année du B.U.T. Science des Données par :
 
-- Ibrahim BENKHERFELLAH (https://github.com/Darckens)  
-- Axel COULET (https://github.com/axcou)  
-- Ayat SELLAM (https://github.com/AyawithaT)  
+- [Ibrahim BENKHERFELLAH](https://github.com/Darckens)  
+- [Axel COULET](https://github.com/axcou)  
+- [Ayat SELLAM](https://github.com/AyawithaT)  
+
 
