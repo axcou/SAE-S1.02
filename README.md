@@ -27,10 +27,10 @@ Nous avons été mis en situation de conception et développement d’un program
 
 Le projet s’est déroulé en plusieurs étapes :
 
-1. Analyse du cahier des charges pour comprendre le format des fichiers sources et le format attendu.
-2. Développement des scripts nécessaires à la transformation des données.
-3. Vérification de la cohérence des résultats obtenus.
-4. Documentation du code pour assurer la clarté et la réutilisabilité du programme.
+1. **Analyse du cahier des charges** pour comprendre le format des fichiers sources et le format attendu.
+2. **Développement des scripts** nécessaires à la transformation des données.
+3. **Vérification de la cohérence** des résultats obtenus.
+4. **Documentation du code** pour assurer la clarté et la réutilisabilité du programme.
 
 Grâce à cette SAE, nous avons pu renforcer nos compétences en manipulation de fichiers, en traitement de données et en développement structuré, des compétences clés en Science des Données.
 
