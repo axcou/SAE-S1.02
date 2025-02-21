@@ -1,5 +1,8 @@
 # SAE-S1.02 Lecture et écriture de fichier de données
 
+## English version
+This README is available in English : [![English](https://img.shields.io/badge/lang-English-blue)](README.en.md)
+
 ## Contexte général
 
 Dans le cadre de notre formation en B.U.T. Science des données en première année. Notre équipe de trois étudiants a été amené durant une journée complète (de 9:00 à 16:00) à coder un programme en Python permettant de lire, traiter et analyser des fichiers texte. 
