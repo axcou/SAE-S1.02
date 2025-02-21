@@ -7,7 +7,7 @@ This README is available in English : [![English](https://img.shields.io/badge/l
 
 Dans le cadre de notre formation en B.U.T. Science des données en première année. Notre équipe de trois étudiants a été amené durant une journée complète (de 9:00 à 16:00) à coder un programme en Python permettant de lire, traiter et analyser des fichiers texte. 
 
-L'objectif était d'extraire et de structurer des informations clients à partir de fichiers fournis, afin de générer des statistiques exploitables. Ce projet nous a permis de mettre en pratique nos compétences en manipulation de fichiers, en automatisation des tâches et en analyse de données, des compétences essentielles en science des données.
+L'objectif était d'extraire et de structurer des informations clients à partir de fichiers fournis, afin de générer des statistiques exploitables. Ce projet nous a permis de mettre en pratique nos compétences en manipulation de fichiers, en automatisation des tâches et en analyse de données.
 
 ## Objectifs et Problématique 
 
