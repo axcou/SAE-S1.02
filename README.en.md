@@ -4,7 +4,7 @@
 
 As part of our first-year B.U.T. Data Science program, our team of three students spent a full day (from 9:00 AM to 4:00 PM) coding a Python program to read, process, and analyze text files.  
 
-The objective was to extract and structure customer information from provided files to generate useful statistics. This project allowed us to apply our skills in file manipulation, task automation, and data analysis—key competencies in data science.  
+The objective was to extract and structure customer information from provided files to generate useful statistics. This project allowed us to apply our skills in file manipulation, task automation, and data analysis.
 
 ## Objectives and Problem Statement  
 
